@@ -42,7 +42,7 @@
 
 if(isset($_POST["submit"])){
  // Simple form handling example 
-// https://www.w3schools.com/php/php_file_upload.asp
+// https://www.w3schools.com
 
 // I use regex  for checking in put is valid or not
 echo '<div class"info"
