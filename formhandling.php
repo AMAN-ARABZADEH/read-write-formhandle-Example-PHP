@@ -23,6 +23,7 @@
          <label for="Email">E-mail:</label>
          <input type="email" name="email" placeholder="E-Mail">
          <label for="age">Age:</label>
+         
          <input type="number" name="age" placeholder="Age">
          <label for="Male">Male</label>
          <input type="radio" name="gender" value="Male"> 
